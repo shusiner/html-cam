@@ -1,3 +1,5 @@
+Edited from don https://github.com/don/html-cam to add a button to download.
+
 The browser in Android 4 is able to take pictures from a web page and display them without any plugins or server interaction.  This demo uses the Device API and File API to take and display a picture on a phone using the browser.
 
 Watch a [video of the demo](https://vimeo.com/41577221).
