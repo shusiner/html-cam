@@ -2,7 +2,7 @@ The browser in Android 4 is able to take pictures from a web page and display th
 
 Watch a [video of the demo](https://vimeo.com/41577221).
 
-Try it on your Android phone [http://don.github.com/html-cam/](http://don.github.com/html-cam/).
+Try it on your Android phone [http://shusiner.github.com/html-cam/](http://shusiner.github.com/html-cam/).
 
 I wrote this demo after reading David Calhoun's post about [Android implementing device APIs](http://davidbcalhoun.com/2011/android-3-0-honeycomb-is-first-to-implement-the-device-api).
 
